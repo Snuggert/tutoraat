@@ -1,0 +1,3 @@
+What technologies do AMD and Intel offer to improve on virtualization on a IA32?
+What is the future of virtualization on desktop pc's?
+In what way are the 'cloud' and virtualization connected?
